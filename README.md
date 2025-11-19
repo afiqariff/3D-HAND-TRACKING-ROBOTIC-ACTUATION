@@ -20,7 +20,7 @@ matplotlib
 ```
 
 **Usage: Getting real time 3D coordinates**  
-As a demo, I've included two short video clips and corresponding camera calibration parameters. Simply run as:
+As a demo, I've included two pictures of cameras calibration.
 ```
 python handpose3d.py
 ```
@@ -37,4 +37,5 @@ The ```handpose3d.py``` program creates a 3D coordinates file: ```kpts_3d.dat```
 ```
 python show_3d_hands.py
 ```
+
 
